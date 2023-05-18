@@ -1,6 +1,6 @@
 # Fancy Fully Responsive Admin Dashboard
 
-# Live preview 🚀
+# Live preview 🚀 - https://fancynextjsdash.netlify.app/
 
 Welcome to the Fancy Fully Responsive Admin Dashboard repository! This project showcases a beautifully designed and highly responsive admin dashboard built using Next.js, HTML, and Tailwind CSS.
 
